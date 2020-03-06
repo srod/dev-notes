@@ -1,17 +1,16 @@
 {
-  "name": "nextjs-blog-starter",
+  "name": "dev-notes",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Next.js",
+  "description": "My own notes as a front-end developer.",
   "license": "MIT",
   "version": "0.1.0",
-  "author": "@kendallstraut",
+  "author": "Rodolphe Stoclin",
   "scripts": {
     "dev": "next src",
-    "develop": "yarn dev",
     "build": "next build src",
     "start": "next start src",
     "export": "next export src",
-    "deploy": "yarn build && yarn export"
+    "deploy": "npm run build && npm run export"
   },
   "dependencies": {
     "gray-matter": "^4.0.2",
@@ -31,6 +30,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/kendallstrautman/nextjs-blog-starter"
+    "url": "https://github.com/srod/dev-notes"
   }
 }

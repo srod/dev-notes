@@ -31,13 +31,6 @@ export default function Meta(props) {
           }
           a {
             text-decoration: none;
-            color: inherit;
-            transition: opacity 0.2s ease;
-          }
-          a:hover {
-            transition: opacity 0.2s ease;
-            opacity: 0.5;
-            text-decoration-color: inherit;
           }
           ul {
             list-style: none;
@@ -193,7 +186,6 @@ export default function Meta(props) {
             font-size: 1.2rem;
             letter-spacing: -0.5px;
             line-height: 1.1875;
-            // color: #a0a0a0;
             font-weight: normal;
           }
 
@@ -221,7 +213,6 @@ export default function Meta(props) {
               font-size: 1rem;
               letter-spacing: -0.5px;
               line-height: 1.1875;
-              //   color: #a0a0a0;
               font-weight: normal;
             }
 

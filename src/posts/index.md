@@ -1,9 +1,3 @@
----
-title: The coastal red giants
-author: Watson & Crick
-date: 2020-03-01
----
-
 # JavaScript
 
 ## Fetch
@@ -29,6 +23,10 @@ function abortFetching() {
 ## Presentations
 
 mdx-deck - https://github.com/jxnblk/mdx-deck
+
+## Next.json
+
+Blog - https://github.com/kendallstrautman/nextjs-blog-starter
 
 # Markdown
 

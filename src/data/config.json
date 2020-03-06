@@ -1,5 +1,5 @@
 {
-    "title":"Site Title",
-    "description":"Starter for Next.js.",
-    "repositoryUrl":"https://github.com/kendallstrautman/nextjs-blog-starter"
+  "title": "Developer Notes",
+  "description": "My own notes as a front-end developer.",
+  "repositoryUrl": "https://github.com/srod/dev-notes"
 }
